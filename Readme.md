@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Evgeny  Pepe](https://up.htmlacademy.ru/javascript/18/user/1048431).
-* Наставник: `Неизвестно`.
+* Наставник: [Виталий Яковенко] (https://up.htmlacademy.ru/javascript/18/user/376639).
 
 ---
 
